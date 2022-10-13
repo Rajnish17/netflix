@@ -1,0 +1,33 @@
+.head_component {
+  height: 600px;
+}
+.Title {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  display: flexbox;
+  padding-top: 130px;
+}
+.Story h4{
+  color: white;
+  font-size: 20x;
+  margin-top: 30px;
+  text-align: center;
+}
+.Story_title{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+.Story_title input{
+    width: 500px;
+    height: 40px;
+}
+.Story_title button{
+    height: 44px;
+    color:white;
+    width: 150px;
+    background-color: red;
+    cursor: pointer;
+}
+

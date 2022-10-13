@@ -1,0 +1,15 @@
+.head{
+    height: 500px;
+    background-color: black;
+    margin-top: 3px;
+}
+.head_image{
+    width: 600px;
+    height: 450px;
+    float: right;
+    padding-right: 30px;
+}
+.title1{
+    color: white;
+    padding: 200px;
+}

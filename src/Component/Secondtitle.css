@@ -1,0 +1,16 @@
+.title{
+    background-color: black;
+    height: 500px;
+    margin-top: 3px;
+}
+.title_image{
+    width:600px;
+    height: 400px;
+    float: right;
+    
+}
+.title_head{
+    color: aliceblue;
+    justify-content: center;
+    padding: 160px;
+}

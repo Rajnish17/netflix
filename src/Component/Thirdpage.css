@@ -1,0 +1,18 @@
+.Head{
+    height: 400px;
+    background-color: black;
+}
+.Head_image{
+    width: 500px;
+    height: 400px;
+    margin-top:3px;
+}
+.banner_title{
+    color: aliceblue;
+    float: right;
+    justify-items: center;
+    margin-right: 50px;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
