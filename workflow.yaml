@@ -1,0 +1,10 @@
+version: 0
+application:  
+  language: nodejs
+  ports:
+  - port: 8080
+    ingress: true
+    ingressPath: /
+pre-exec:
+  commands:
+  - cmd: date # Print the deployment date
